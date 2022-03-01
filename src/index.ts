@@ -1,0 +1,1 @@
+require('./practice-console/index')
